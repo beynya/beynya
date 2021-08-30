@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @beynya
 - 👀 I’m interested in software enginering and frontend
-- 🌱 I’m currently learning python
 
 <!---
 beynya/beynya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
